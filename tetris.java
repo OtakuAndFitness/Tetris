@@ -1,3 +1,10 @@
+/**
+*
+* Written by Bowen Tao
+*
+* */
+
+
 import java.awt.Color;
 import java.awt.FlowLayout;
 import java.awt.Graphics;
