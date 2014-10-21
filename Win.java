@@ -1,3 +1,9 @@
+/**
+*
+* Written by Bowen Tao
+*
+* */
+
 import javax.swing.JFrame;
 
 
